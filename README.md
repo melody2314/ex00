@@ -1,3 +1,3 @@
-# ex00 - github excrise
+# ex00 - github exercise
 
 html
