@@ -1,1 +1,3 @@
-# ex00
+# ex00 - github excrise
+
+html
